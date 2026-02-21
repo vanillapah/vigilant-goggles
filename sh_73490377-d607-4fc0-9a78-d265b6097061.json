@@ -130,7 +130,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -209,7 +209,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -288,7 +288,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -367,7 +367,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -446,7 +446,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -525,7 +525,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -604,7 +604,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -683,7 +683,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -762,7 +762,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -841,7 +841,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -920,7 +920,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -999,7 +999,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -1078,7 +1078,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -1157,7 +1157,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -1236,7 +1236,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -1315,7 +1315,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -1394,7 +1394,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -1473,7 +1473,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -1552,7 +1552,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -1631,7 +1631,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -1860,7 +1860,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -1939,7 +1939,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -2018,7 +2018,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -2097,7 +2097,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -2176,7 +2176,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -2255,7 +2255,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -2334,7 +2334,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -2413,7 +2413,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -2492,7 +2492,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -2571,7 +2571,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -2650,7 +2650,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -2729,7 +2729,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -2808,7 +2808,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -2887,7 +2887,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -2966,7 +2966,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -3045,7 +3045,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -3124,7 +3124,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -3203,7 +3203,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -3282,7 +3282,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -3361,7 +3361,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -3590,7 +3590,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -3669,7 +3669,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -3748,7 +3748,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -3827,7 +3827,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -3906,7 +3906,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -3985,7 +3985,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -4064,7 +4064,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -4143,7 +4143,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -4222,7 +4222,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -4301,7 +4301,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -4380,7 +4380,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -4459,7 +4459,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -4538,7 +4538,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -4617,7 +4617,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -4696,7 +4696,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -4775,7 +4775,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -4854,7 +4854,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -4933,7 +4933,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -5012,7 +5012,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -5091,7 +5091,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -5320,7 +5320,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -5399,7 +5399,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -5478,7 +5478,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -5557,7 +5557,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -5636,7 +5636,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -5715,7 +5715,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -5794,7 +5794,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -5873,7 +5873,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -5952,7 +5952,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -6031,7 +6031,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -6110,7 +6110,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -6189,7 +6189,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -6268,7 +6268,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -6347,7 +6347,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -6426,7 +6426,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -6505,7 +6505,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -6584,7 +6584,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -6663,7 +6663,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -6742,7 +6742,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -6821,7 +6821,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -7050,7 +7050,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -7129,7 +7129,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -7208,7 +7208,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -7287,7 +7287,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -7366,7 +7366,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -7445,7 +7445,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -7524,7 +7524,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -7603,7 +7603,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -7682,7 +7682,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -7761,7 +7761,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -7840,7 +7840,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -7919,7 +7919,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -7998,7 +7998,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -8077,7 +8077,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -8156,7 +8156,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -8235,7 +8235,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -8314,7 +8314,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -8393,7 +8393,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
@@ -8472,7 +8472,7 @@
               "h2"
             ],
             "fingerprint": "chrome",
-            "echConfigList": "udp://8.8.8.8",
+            "echConfigList": "ip.gs+udp://9.9.9.9",
             "echForceQuery": "full"
           },
           "xhttpSettings": {
